@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **ruby on rails, javascript, react**
 
-- 📫 How to reach me **mgillot56@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
